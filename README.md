@@ -1,6 +1,6 @@
 ```bat
-Небесный Демон ~/$ whoami
-Abdul Rehman / Небесный Демон
+Heavenly Demon ~/$ whoami
+Abdul Rehman / Heavenly Demon
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 ```
 ---
@@ -12,9 +12,8 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 <td>   
   
 ```bash 
-Небесный Демон@kali ~
+HeavenlyDemon@arch ~
 -----------------------------
-OS : Kali Linux
 Role : Cybersecurity & CS Student
 Focus : Bug Hunting, Web Security, CTFs
 Labs : HTB / PortSwigger / VulnLab / CTFs / WEB Kids 2.0
