@@ -1,6 +1,6 @@
 ```bat
-Heavenly Demon ~/$ whoami
-Abdul Rehman / Heavenly Demon
+wiuumiuuu ~/$ whoami
+Abdul Rehman / wiuumiuuu
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 ```
 ---
@@ -12,7 +12,7 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 <td>   
   
 ```bash 
-HeavenlyDemon@arch ~
+wiuumiuuu@arch ~
 -----------------------------
 Role : Cybersecurity & CS Student
 Focus : Bug Hunting, Web Security, CTFs
