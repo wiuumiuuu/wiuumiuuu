@@ -1,6 +1,6 @@
 ```bat
-wiuumiuuu ~/$ whoami
-Abdul Rehman / wiuumiuuu
+ozmyn ~/$ whoami
+Abdul Rehman / ozmyn
 Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 ```
 ---
@@ -12,7 +12,7 @@ Cybersecurity • Pentesting • CTFs • Bugs Hunting • Wanna be a hacker.
 <td>   
   
 ```bash 
-wiuumiuuu@arch ~
+ozmyn@arch ~
 -----------------------------
 Role : Cybersecurity & CS Student
 Focus : Bug Hunting, Web Security, CTFs
@@ -38,4 +38,4 @@ Computer Science student focused on cybersecurity, web application security, and
 
 ## LINKS
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wiuumiuuu.github.io-2dd4a7?style=flat-square&logo=github)](https://wiuumiuuu.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wiuumiuuu.github.io-2dd4a7?style=flat-square&logo=github)](https://ozmyn.github.io)
