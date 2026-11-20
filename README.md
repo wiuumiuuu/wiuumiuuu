@@ -38,4 +38,4 @@ Computer Science student focused on cybersecurity, web application security, and
 
 ## LINKS
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wiuumiuuu.github.io-2dd4a7?style=flat-square&logo=github)](https://ozmyn.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ozmyn.github.io-2dd4a7?style=flat-square&logo=github)](https://ozmyn.github.io)
